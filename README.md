@@ -1,2 +1,2 @@
-# RustHolePuncher
-UDP Hole Punching + UPnP Port Mapping Tool
+Simple and reliable UPnP port mapping and UDP hole punching solution
+
